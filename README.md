@@ -3,3 +3,4 @@
 ### Obtained player’s data with API from stats.nba.com; Developed an autocomplete player search bar for suggestions.
 ### Created 4 extra filters and 2 shot themes (hexbin and scatter) to provide more customized visualization. 
 
+![Image text](https://github.com/YingnanZhou/nba-player-analyse/blob/master/demo/WechatIMG367.png)
