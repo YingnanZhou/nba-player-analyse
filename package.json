@@ -16,8 +16,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "s3deploy": "s3-deploy './build/**' --cwd './build' --region aws s3 --bucket nba-player-visual-zhenyupan",
-    "build_deploy": "npm run build && npm run s3deploy"
-  },
-  "homepage": "."
+  }
 }
